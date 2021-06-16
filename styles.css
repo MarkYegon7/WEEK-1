@@ -6,7 +6,7 @@ body{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-size:1500px 1200px; 
+    background-size:4640px 6960px;
 }
 .home{
     display: flex;
@@ -29,10 +29,11 @@ a{
 section{
     width:100%;
     height: 95vh;
-    background-image:url("./images 2/splash.jpg");
+    background-image:url("./images 2/simba.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position:relative;
+    background-size: 2000px 900px;
 }
 nav{
     display:flex;
